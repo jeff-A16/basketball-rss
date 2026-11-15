@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CBA 最新资讯与动态</title>
+    <link>https://github.com/jeff-A16/basketball-rss</link>
+    <description>CBA 赛事、球员、球队、转会和伤病动态的中文摘要，每 2 小时检查更新；每条附来源与原文链接。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://raw.githubusercontent.com/jeff-A16/basketball-rss/main/cba.xml" rel="self" type="application/rss+xml" />
+    <ttl>120</ttl>
+    <lastBuildDate>Sun, 15 Nov 2026 04:43:25 GMT</lastBuildDate>
+    <item>
+      <title>记者：沃特斯三世归队，北京男篮备战俱乐部杯</title>
+      <link>https://news.zhibo8.com/nba/2026-11-14/6af862364881anative.htm</link>
+      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-14/6af862364881anative.htm</guid>
+      <pubDate>Sat, 14 Nov 2026 13:36:50 GMT</pubDate>
+      <category>CBA</category>
+      <description>&lt;p&gt;据BTV记者勇方方报道，沃特斯三世已经回归北京男篮，巴里·布朗即将结束休假返京。北京队俱乐部杯报名15人，部分球员因国家队任务缺席。&lt;/p&gt;&lt;p&gt;来源：直播吧，援引BTV记者勇方方。&lt;a href=&quot;https://news.zhibo8.com/nba/2026-11-14/6af862364881anative.htm&quot;&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>福建男篮官宣与外援达里尔·梅肯终止合同</title>
+      <link>https://news.zhibo8.com/nba/2026-11-14/6af825a2e72f2native.htm</link>
+      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-14/6af825a2e72f2native.htm</guid>
+      <pubDate>Sat, 14 Nov 2026 09:12:25 GMT</pubDate>
+      <category>CBA</category>
+      <description>&lt;p&gt;福建SBS浔兴篮球俱乐部公告称，双方经协商正式终止合同。俱乐部表示将继续推进阵容补强。&lt;/p&gt;&lt;p&gt;来源：福建SBS浔兴篮球俱乐部公告，直播吧转载。&lt;a href=&quot;https://news.zhibo8.com/nba/2026-11-14/6af825a2e72f2native.htm&quot;&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>广东主帅贝罗卡尔谈执教：加强防守，保持整场表现稳定</title>
+      <link>https://news.zhibo8.com/nba/2026-11-14/6af7e9720fd92native.htm</link>
+      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-14/6af7e9720fd92native.htm</guid>
+      <pubDate>Sat, 14 Nov 2026 05:09:25 GMT</pubDate>
+      <category>CBA</category>
+      <description>&lt;p&gt;贝罗卡尔接受采访时强调防守、进攻跑动和篮板拼抢，并希望广东男篮减少比赛中的起伏，在40分钟内保持稳定表现。&lt;/p&gt;&lt;p&gt;来源：直播吧，援引广东体育频道采访。&lt;a href=&quot;https://news.zhibo8.com/nba/2026-11-14/6af7e9720fd92native.htm&quot;&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

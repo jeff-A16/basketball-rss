@@ -7,7 +7,7 @@
     <language>zh-CN</language>
     <atom:link href="https://raw.githubusercontent.com/jeff-A16/basketball-rss/main/nba.xml" rel="self" type="application/rss+xml" />
     <ttl>120</ttl>
-    <lastBuildDate>Fri, 20 Nov 2026 08:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:46:57 GMT</lastBuildDate>
     <item>
       <title>据报道：斯图尔特因病缺席灰熊对骑士比赛</title>
       <link>https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-ruled-out-for-wednesday-539632</link>
@@ -105,6 +105,14 @@
       <guid isPermaLink="true">https://official.nba.com/nets-minott-fined/</guid>
       <category>NBA</category>
       <description>&lt;p&gt;NBA宣布，乔什·迈诺特因向观众席做出不雅手势，被罚款2.5万美元。事件发生在11月14日篮网对灰熊的比赛结束后。&lt;/p&gt;&lt;p&gt;来源：NBA官方。&lt;a href="https://official.nba.com/nets-minott-fined/"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>布雷登·史密斯右踝扭伤，对骑士出战存疑</title>
+      <link>https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_07_00AM.pdf</link>
+      <description>&lt;p&gt;NBA官方伤病报告将步行者后卫布雷登·史密斯列为北京时间11月21日对骑士一战出场存疑，伤情为右脚踝扭伤。&lt;/p&gt;&lt;p&gt;来源：NBA官方伤病报告。&lt;a href="https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_07_00AM.pdf"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_07_00AM.pdf</guid>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 -0500</pubDate>
+      <category>NBA</category>
     </item>
     <item>
       <title>据报道：湖人从G联盟召回卡梅隆·卡尔</title>
@@ -1585,14 +1593,6 @@
       <pubDate>Sun, 15 Nov 2026 16:58:43 GMT</pubDate>
       <category>NBA</category>
       <description>&lt;p&gt;步行者主帅卡莱尔在赛前采访中确认，内姆哈德不会出战对76人的比赛。其状态由此前的出战存疑变为缺阵。&lt;/p&gt;&lt;p&gt;来源：直播吧，援引卡莱尔赛前采访；NBA官方伤病报告。&lt;a href="https://news.zhibo8.com/nba/2026-11-16/6af9e453eb044native.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>纳斯：沃克将出任对步行者比赛的首发中锋</title>
-      <link>https://news.zhibo8.com/nba/2026-11-16/6af9ded20c6c0native.htm</link>
-      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-16/6af9ded20c6c0native.htm</guid>
-      <pubDate>Sun, 15 Nov 2026 16:39:15 GMT</pubDate>
-      <category>NBA</category>
-      <description>&lt;p&gt;纳斯在对步行者赛前表示，贾巴里·沃克将担任首发中锋，迪恩·韦德和詹姆斯也可能客串五号位。恩比德和博纳缺席该场比赛。&lt;/p&gt;&lt;p&gt;来源：直播吧，援引纳斯赛前采访。&lt;a href="https://news.zhibo8.com/nba/2026-11-16/6af9ded20c6c0native.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

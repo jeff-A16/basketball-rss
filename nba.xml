@@ -7,7 +7,7 @@
     <language>zh-CN</language>
     <atom:link href="https://raw.githubusercontent.com/jeff-A16/basketball-rss/main/nba.xml" rel="self" type="application/rss+xml" />
     <ttl>120</ttl>
-    <lastBuildDate>Fri, 20 Nov 2026 12:46:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:50:26 GMT</lastBuildDate>
     <item>
       <title>据报道：斯图尔特因病缺席灰熊对骑士比赛</title>
       <link>https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-ruled-out-for-wednesday-539632</link>
@@ -105,6 +105,14 @@
       <guid isPermaLink="true">https://official.nba.com/nets-minott-fined/</guid>
       <category>NBA</category>
       <description>&lt;p&gt;NBA宣布，乔什·迈诺特因向观众席做出不雅手势，被罚款2.5万美元。事件发生在11月14日篮网对灰熊的比赛结束后。&lt;/p&gt;&lt;p&gt;来源：NBA官方。&lt;a href="https://official.nba.com/nets-minott-fined/"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>据报道：班凯罗希望未来几周复出，日期未定</title>
+      <link>https://news.zhibo8.com/nba/2026-11-20/6b004b7aef193native.htm</link>
+      <description>&lt;p&gt;据RealGM转述，班凯罗表示，自己仍在恢复右脚踝高位扭伤，希望未来几周重返赛场，但尚无具体日期。他正借鉴瓦格纳的康复经历，避免过早回归导致伤势反复。&lt;/p&gt;&lt;p&gt;来源：直播吧（RealGM转述班凯罗采访）。&lt;a href="https://news.zhibo8.com/nba/2026-11-20/6b004b7aef193native.htm"&gt;阅读原文&lt;/a&gt;；&lt;a href="https://basketball.realgm.com/wiretap/288198/Paolo-Banchero-Hopes-To-Return-Within-Next-Couple-Of-Weeks"&gt;RealGM报道&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-20/6b004b7aef193native.htm</guid>
+      <pubDate>Fri, 20 Nov 2026 22:02:00 +0800</pubDate>
+      <category>NBA</category>
     </item>
     <item>
       <title>布雷登·史密斯右踝扭伤，对骑士出战存疑</title>
@@ -1585,14 +1593,6 @@
       <pubDate>Sun, 15 Nov 2026 18:16:46 GMT</pubDate>
       <category>NBA</category>
       <description>&lt;p&gt;独行侠对凯尔特人的伤病名单显示，欧文因左膝伤病管理、阿尔达马因左脚踝扭伤出战存疑。加福德大概率出战，克里斯蒂出战可能性较低。&lt;/p&gt;&lt;p&gt;来源：直播吧，援引独行侠伤病更新。&lt;a href="https://news.zhibo8.com/nba/2026-11-16/6af9f64f9d200native.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>卡莱尔确认内姆哈德缺席对76人的比赛</title>
-      <link>https://news.zhibo8.com/nba/2026-11-16/6af9e453eb044native.htm</link>
-      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-16/6af9e453eb044native.htm</guid>
-      <pubDate>Sun, 15 Nov 2026 16:58:43 GMT</pubDate>
-      <category>NBA</category>
-      <description>&lt;p&gt;步行者主帅卡莱尔在赛前采访中确认，内姆哈德不会出战对76人的比赛。其状态由此前的出战存疑变为缺阵。&lt;/p&gt;&lt;p&gt;来源：直播吧，援引卡莱尔赛前采访；NBA官方伤病报告。&lt;a href="https://news.zhibo8.com/nba/2026-11-16/6af9e453eb044native.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

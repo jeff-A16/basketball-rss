@@ -7,7 +7,7 @@
     <language>zh-CN</language>
     <atom:link href="https://raw.githubusercontent.com/jeff-A16/basketball-rss/main/nba.xml" rel="self" type="application/rss+xml" />
     <ttl>120</ttl>
-    <lastBuildDate>Fri, 20 Nov 2026 06:46:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:44:17 GMT</lastBuildDate>
     <item>
       <title>据报道：斯图尔特因病缺席灰熊对骑士比赛</title>
       <link>https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-ruled-out-for-wednesday-539632</link>
@@ -105,6 +105,14 @@
       <guid isPermaLink="true">https://official.nba.com/nets-minott-fined/</guid>
       <category>NBA</category>
       <description>&lt;p&gt;NBA宣布，乔什·迈诺特因向观众席做出不雅手势，被罚款2.5万美元。事件发生在11月14日篮网对灰熊的比赛结束后。&lt;/p&gt;&lt;p&gt;来源：NBA官方。&lt;a href="https://official.nba.com/nets-minott-fined/"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>据报道：湖人从G联盟召回卡梅隆·卡尔</title>
+      <link>https://news.zhibo8.com/nba/2026-11-20/6affee5bc7b38native.htm</link>
+      <description>&lt;p&gt;据湖人随队记者Ryan Ward报道，球队已将新秀后卫卡梅隆·卡尔从G联盟科切拉谷湖人召回。&lt;/p&gt;&lt;p&gt;来源：直播吧（Ryan Ward报道）。&lt;a href="https://news.zhibo8.com/nba/2026-11-20/6affee5bc7b38native.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-20/6affee5bc7b38native.htm</guid>
+      <pubDate>Fri, 20 Nov 2026 15:10:37 +0800</pubDate>
+      <category>NBA</category>
     </item>
     <item>
       <title>文班亚马32分11篮板，马刺124-112击退快船</title>
@@ -1585,14 +1593,6 @@
       <pubDate>Sun, 15 Nov 2026 16:39:15 GMT</pubDate>
       <category>NBA</category>
       <description>&lt;p&gt;纳斯在对步行者赛前表示，贾巴里·沃克将担任首发中锋，迪恩·韦德和詹姆斯也可能客串五号位。恩比德和博纳缺席该场比赛。&lt;/p&gt;&lt;p&gt;来源：直播吧，援引纳斯赛前采访。&lt;a href="https://news.zhibo8.com/nba/2026-11-16/6af9ded20c6c0native.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>据报道：骑士将海佐尼亚合同转为全额保障</title>
-      <link>https://news.zhibo8.com/nba/2026-11-15/6af9ccecd79d9native.htm</link>
-      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-15/6af9ccecd79d9native.htm</guid>
-      <pubDate>Sun, 15 Nov 2026 15:23:37 GMT</pubDate>
-      <category>NBA</category>
-      <description>&lt;p&gt;据Spotrac报道，骑士已将海佐尼亚的合同转为全额保障。他在休赛期签下的一年280万美元合同，最初为无保障合同。&lt;/p&gt;&lt;p&gt;来源：直播吧，援引Spotrac报道。&lt;a href="https://news.zhibo8.com/nba/2026-11-15/6af9ccecd79d9native.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <language>zh-CN</language>
     <atom:link href="https://raw.githubusercontent.com/jeff-A16/basketball-rss/main/nba.xml" rel="self" type="application/rss+xml" />
     <ttl>120</ttl>
-    <lastBuildDate>Sun, 22 Nov 2026 06:47:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:48:39 GMT</lastBuildDate>
     <item>
       <title>据报道：斯图尔特因病缺席灰熊对骑士比赛</title>
       <link>https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-ruled-out-for-wednesday-539632</link>
@@ -105,6 +105,14 @@
       <guid isPermaLink="true">https://official.nba.com/nets-minott-fined/</guid>
       <category>NBA</category>
       <description>&lt;p&gt;NBA宣布，乔什·迈诺特因向观众席做出不雅手势，被罚款2.5万美元。事件发生在11月14日篮网对灰熊的比赛结束后。&lt;/p&gt;&lt;p&gt;来源：NBA官方。&lt;a href="https://official.nba.com/nets-minott-fined/"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>据报道：诺里称杨瀚森可通过G联赛增加实战机会</title>
+      <link>https://news.zhibo8.com/nba/2026-11-22/6b029828249ddnative.htm</link>
+      <description>&lt;p&gt;据直播吧报道，开拓者主帅诺里在对尼克斯的赛前发布会上表示，杨瀚森需要继续积累比赛经验，健康时也可通过G联赛争取出场机会。他认为杨瀚森仍在进步，需要进一步适应NBA的比赛速度。&lt;/p&gt;&lt;p&gt;来源：直播吧（诺里赛前发布会）；&lt;a href="https://news.zhibo8.com/nba/2026-11-22/6b029828249ddnative.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-22/6b029828249ddnative.htm</guid>
+      <pubDate>Sun, 22 Nov 2026 15:41:22 +0800</pubDate>
+      <category>NBA</category>
     </item>
     <item>
       <title>贾伦·史密斯仍有胃肠道疾病，对掘金出战存疑</title>
@@ -1584,14 +1592,6 @@
       <description>&lt;p&gt;勇士确认布兰登·威廉姆斯的左腿筋伤恢复取得进展，已开始进行场上活动。球队将在美国当地时间11月21日再次评估其伤情，尚未公布复出日期。&lt;/p&gt;&lt;p&gt;来源：直播吧、金州勇士官网。&lt;a href="https://news.zhibo8.com/nba/2026-11-19/6afdd679026aenative.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-19/6afdd679026aenative.htm</guid>
       <pubDate>Thu, 19 Nov 2026 01:14:16 +0800</pubDate>
-      <category>NBA</category>
-    </item>
-    <item>
-      <title>骑士双向合同签下扎克·奥斯汀，裁掉米尼克斯</title>
-      <link>https://www.nba.com/cavaliers/news/releases-zack-austin-261118</link>
-      <description>&lt;p&gt;骑士宣布以双向合同引进前锋扎克·奥斯汀，并裁掉莱利·米尼克斯腾出名额。奥斯汀本赛季在发展联盟前三场比赛场均得到31.3分。&lt;/p&gt;&lt;p&gt;来源：克利夫兰骑士官网、Hoops Wire。&lt;a href="https://www.nba.com/cavaliers/news/releases-zack-austin-261118"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.nba.com/cavaliers/news/releases-zack-austin-261118</guid>
-      <pubDate>Wed, 18 Nov 2026 15:39:19 +0000</pubDate>
       <category>NBA</category>
     </item>
   </channel>

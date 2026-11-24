@@ -7,7 +7,7 @@
     <language>zh-CN</language>
     <atom:link href="https://raw.githubusercontent.com/jeff-A16/basketball-rss/main/nba.xml" rel="self" type="application/rss+xml" />
     <ttl>120</ttl>
-    <lastBuildDate>Tue, 24 Nov 2026 12:50:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:48:25 GMT</lastBuildDate>
     <item>
       <title>据报道：斯图尔特因病缺席灰熊对骑士比赛</title>
       <link>https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-ruled-out-for-wednesday-539632</link>
@@ -105,6 +105,14 @@
       <guid isPermaLink="true">https://official.nba.com/nets-minott-fined/</guid>
       <category>NBA</category>
       <description>&lt;p&gt;NBA宣布，乔什·迈诺特因向观众席做出不雅手势，被罚款2.5万美元。事件发生在11月14日篮网对灰熊的比赛结束后。&lt;/p&gt;&lt;p&gt;来源：NBA官方。&lt;a href="https://official.nba.com/nets-minott-fined/"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>克劳福德谈首月MVP选择，称文班亚马攻防俱佳</title>
+      <link>https://www.nba.com/news/nba-mailbag-november-24-2026</link>
+      <description>&lt;p&gt;克劳福德在NBA官网最新问答中，将文班亚马列为自己的开季首月MVP人选。他强调文班在攻防两端的统治力，同时认为东契奇同样打出了MVP水准。&lt;/p&gt;&lt;p&gt;来源：NBA.com（贾马尔·克劳福德专栏）；&lt;a href="https://www.nba.com/news/nba-mailbag-november-24-2026"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.nba.com/news/nba-mailbag-november-24-2026</guid>
+      <pubDate>Tue, 24 Nov 2026 12:55:25 +0000</pubDate>
+      <category>NBA</category>
     </item>
     <item>
       <title>据报道：记者预计爱德华兹可能明年1月复出</title>
@@ -1584,14 +1592,6 @@
       <description>&lt;p&gt;开拓者将阿夫迪亚列为对尼克斯出战存疑，最新伤病报告标注为左脚挫伤。上一场轮休的罗伯特·威廉姆斯已从伤病名单中移除，可以出战。&lt;/p&gt;&lt;p&gt;来源：直播吧（开拓者伤病名单，NBA官方报告及RotoWire交叉核实）。&lt;a href="https://news.zhibo8.com/nba/2026-11-21/6b00c47aea5c8native.htm"&gt;阅读原文&lt;/a&gt;；&lt;a href="https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_30PM.pdf"&gt;NBA官方伤病报告&lt;/a&gt;；&lt;a href="https://www.rotowire.com/basketball/headlines/robert-williams-news-off-injury-report-for-saturday-540200"&gt;罗威状态核实&lt;/a&gt;；&lt;a href="https://www.rotowire.com/basketball/headlines/deni-avdija-injury-iffy-for-saturday-540196"&gt;阿夫迪亚状态核实&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-21/6b00c47aea5c8native.htm</guid>
       <pubDate>Sat, 21 Nov 2026 06:09:55 +0800</pubDate>
-      <category>NBA</category>
-    </item>
-    <item>
-      <title>76人名单更新：马克西存疑，巴洛大概率出战</title>
-      <link>https://news.zhibo8.com/nba/2026-11-21/6b00c37b4b6bdnative.htm</link>
-      <description>&lt;p&gt;76人将右脚扭伤的马克西列为对雄鹿出战存疑，巴洛因腰部应力反应列为大概率出战，有望迎来赛季首秀。迪恩·韦德、杰伦·布朗和博纳继续缺阵。&lt;/p&gt;&lt;p&gt;来源：直播吧（76人伤病名单，NBA官方伤病报告交叉核实）。&lt;a href="https://news.zhibo8.com/nba/2026-11-21/6b00c37b4b6bdnative.htm"&gt;阅读原文&lt;/a&gt;；&lt;a href="https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_30PM.pdf"&gt;NBA官方伤病报告&lt;/a&gt;；&lt;a href="https://www.rotowire.com/basketball/headlines/dean-wade-injury-ruled-out-for-saturday-540198"&gt;韦德继续缺阵报道&lt;/a&gt;；&lt;a href="https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-probable-for-saturday-540199"&gt;巴洛状态报道&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-21/6b00c37b4b6bdnative.htm</guid>
-      <pubDate>Sat, 21 Nov 2026 06:06:10 +0800</pubDate>
       <category>NBA</category>
     </item>
   </channel>

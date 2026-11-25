@@ -7,7 +7,7 @@
     <language>zh-CN</language>
     <atom:link href="https://raw.githubusercontent.com/jeff-A16/basketball-rss/main/nba.xml" rel="self" type="application/rss+xml" />
     <ttl>120</ttl>
-    <lastBuildDate>Wed, 25 Nov 2026 08:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:50:21 GMT</lastBuildDate>
     <item>
       <title>据报道：斯图尔特因病缺席灰熊对骑士比赛</title>
       <link>https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-ruled-out-for-wednesday-539632</link>
@@ -105,6 +105,14 @@
       <guid isPermaLink="true">https://official.nba.com/nets-minott-fined/</guid>
       <category>NBA</category>
       <description>&lt;p&gt;NBA宣布，乔什·迈诺特因向观众席做出不雅手势，被罚款2.5万美元。事件发生在11月14日篮网对灰熊的比赛结束后。&lt;/p&gt;&lt;p&gt;来源：NBA官方。&lt;a href="https://official.nba.com/nets-minott-fined/"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NBA拟筹资至少100亿欧元，建设和改造欧洲篮球场馆</title>
+      <link>https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe</link>
+      <description>&lt;p&gt;NBA宣布一项投资计划，目标募集至少100亿欧元。资金拟用于欧洲篮球场馆及周边体育娱乐区域的新建和改造，为NBA与FIBA计划于2027年推出的欧洲职业篮球体系提供支持。&lt;/p&gt;&lt;p&gt;来源：NBA官方公告；&lt;a href="https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe</guid>
+      <pubDate>Wed, 25 Nov 2026 13:24:09 +0000</pubDate>
+      <category>NBA</category>
     </item>
     <item>
       <title>火箭提前无缘本届NBA杯淘汰赛</title>
@@ -1584,14 +1592,6 @@
       <description>&lt;p&gt;掘金以133比124战胜火箭，约基奇贡献26分7篮板11助攻。申京拿下28分11篮板10助攻，火箭虽有四人得分至少20分，仍未能取胜。&lt;/p&gt;&lt;p&gt;来源：直播吧；NBA官方比赛数据。&lt;a href="https://news.zhibo8.com/nba/2026-11-21/match2139130date2026vnative.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;核实来源：&lt;a href="https://www.nba.com/game/hou-vs-den-0022600050"&gt;NBA官方比赛数据&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-21/match2139130date2026vnative.htm</guid>
       <pubDate>Sat, 21 Nov 2026 13:37:27 +0800</pubDate>
-      <category>NBA</category>
-    </item>
-    <item>
-      <title>湖人106比104逆转国王，东契奇25分8助攻</title>
-      <link>https://news.zhibo8.com/nba/2026-11-21/match2139131date2026vnative.htm</link>
-      <description>&lt;p&gt;湖人以106比104逆转国王，东契奇拿下25分4篮板8助攻，格莱姆斯命中末段关键三分。亨特得到30分，国王遭遇八连败。&lt;/p&gt;&lt;p&gt;来源：直播吧；NBA官方比赛数据。&lt;a href="https://news.zhibo8.com/nba/2026-11-21/match2139131date2026vnative.htm"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;核实来源：&lt;a href="https://www.nba.com/game/sac-vs-lal-0022600051"&gt;NBA官方比赛数据&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-21/match2139131date2026vnative.htm</guid>
-      <pubDate>Sat, 21 Nov 2026 13:24:07 +0800</pubDate>
       <category>NBA</category>
     </item>
   </channel>

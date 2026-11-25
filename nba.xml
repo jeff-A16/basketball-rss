@@ -7,7 +7,7 @@
     <language>zh-CN</language>
     <atom:link href="https://raw.githubusercontent.com/jeff-A16/basketball-rss/main/nba.xml" rel="self" type="application/rss+xml" />
     <ttl>120</ttl>
-    <lastBuildDate>Wed, 25 Nov 2026 18:46:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:46:35 GMT</lastBuildDate>
     <item>
       <title>据报道：斯图尔特因病缺席灰熊对骑士比赛</title>
       <link>https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-ruled-out-for-wednesday-539632</link>
@@ -105,6 +105,14 @@
       <guid isPermaLink="true">https://official.nba.com/nets-minott-fined/</guid>
       <category>NBA</category>
       <description>&lt;p&gt;NBA宣布，乔什·迈诺特因向观众席做出不雅手势，被罚款2.5万美元。事件发生在11月14日篮网对灰熊的比赛结束后。&lt;/p&gt;&lt;p&gt;来源：NBA官方。&lt;a href="https://official.nba.com/nets-minott-fined/"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>恩比德因病缺席对热火比赛，字母哥升为大概率出战</title>
+      <link>https://news.zhibo8.com/nba/2026-11-26/6b0744a29f167native.htm</link>
+      <description>&lt;p&gt;在美东11月25日76人对热火的NBA杯赛前伤病报告中，恩比德因病确定缺席。阿德托昆博因右腹股沟肌腱炎的出场状态由存疑上调为大概率出战。&lt;/p&gt;&lt;p&gt;来源：直播吧；NBA官方伤病报告；&lt;a href="https://news.zhibo8.com/nba/2026-11-26/6b0744a29f167native.htm"&gt;阅读原文&lt;/a&gt;；&lt;a href="https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_03_30PM.pdf"&gt;NBA官方伤病报告&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.zhibo8.com/nba/2026-11-26/6b0744a29f167native.htm</guid>
+      <pubDate>Thu, 26 Nov 2026 04:30:52 +0800</pubDate>
+      <category>NBA</category>
     </item>
     <item>
       <title>据报道：小凯文·波特与魔术签下两年合同</title>
@@ -1584,14 +1592,6 @@
       <description>&lt;p&gt;热火将阿德托昆博列为美东时间11月22日对雷霆比赛的出战存疑名单，原因为右侧腹股沟肌腱炎。球队尚未确认他能否出场。&lt;/p&gt;&lt;p&gt;来源：RotoWire；NBA官方伤病报告。&lt;a href="https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-injury-dealing-with-groin-injury-540364"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;核实来源：&lt;a href="https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_03_30PM.pdf"&gt;NBA官方伤病报告&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-injury-dealing-with-groin-injury-540364</guid>
       <pubDate>Sat, 21 Nov 2026 12:33:43 -0800</pubDate>
-      <category>NBA</category>
-    </item>
-    <item>
-      <title>华盛顿因病出战状态下调，对快船大概率缺席</title>
-      <link>https://www.rotowire.com/basketball/headlines/pj-washington-injury-unlikely-to-play-saturday-540358</link>
-      <description>&lt;p&gt;独行侠将P.J.华盛顿对快船一战的状态从出战存疑下调为大概率缺席，最新官方报告列出的原因为疾病。他最初因左肩伤势被列为出战存疑。&lt;/p&gt;&lt;p&gt;来源：RotoWire；NBA官方伤病报告。&lt;a href="https://www.rotowire.com/basketball/headlines/pj-washington-injury-unlikely-to-play-saturday-540358"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;核实来源：&lt;a href="https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_03_30PM.pdf"&gt;NBA官方伤病报告&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.rotowire.com/basketball/headlines/pj-washington-injury-unlikely-to-play-saturday-540358</guid>
-      <pubDate>Sat, 21 Nov 2026 11:22:10 -0800</pubDate>
       <category>NBA</category>
     </item>
   </channel>

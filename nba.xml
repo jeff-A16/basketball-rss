@@ -7,7 +7,7 @@
     <language>zh-CN</language>
     <atom:link href="https://raw.githubusercontent.com/jeff-A16/basketball-rss/main/nba.xml" rel="self" type="application/rss+xml" />
     <ttl>120</ttl>
-    <lastBuildDate>Fri, 27 Nov 2026 00:51:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:46:23 GMT</lastBuildDate>
     <item>
       <title>据报道：斯图尔特因病缺席灰熊对骑士比赛</title>
       <link>https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-ruled-out-for-wednesday-539632</link>
@@ -105,6 +105,14 @@
       <guid isPermaLink="true">https://official.nba.com/nets-minott-fined/</guid>
       <category>NBA</category>
       <description>&lt;p&gt;NBA宣布，乔什·迈诺特因向观众席做出不雅手势，被罚款2.5万美元。事件发生在11月14日篮网对灰熊的比赛结束后。&lt;/p&gt;&lt;p&gt;来源：NBA官方。&lt;a href="https://official.nba.com/nets-minott-fined/"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>库里、莫兰特均缺席勇士对开拓者一战</title>
+      <link>https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_09_30PM.pdf</link>
+      <guid isPermaLink="true">https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_09_30PM.pdf</guid>
+      <pubDate>Thu, 26 Nov 2026 21:30:00 -0500</pubDate>
+      <category>NBA</category>
+      <description>&lt;p&gt;NBA官方伤病报告将库里（右侧腹斜肌撕裂）和莫兰特（左腿筋拉伤）均列为缺阵，二人无法参加美东时间11月27日的勇士对开拓者比赛。勇士的巴特勒、穆迪和波尔津吉斯，以及开拓者的夏普、克雷伊奇和扬布拉德也在缺阵名单中。&lt;/p&gt;&lt;p&gt;来源：NBA官方伤病报告；&lt;a href="https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_09_30PM.pdf"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>内史密斯移出对76人赛前伤病名单</title>
@@ -1584,14 +1592,6 @@
       <description>&lt;p&gt;篮网在11月23日对森林狼比赛的伤病名单中，将诺兰·特拉奥雷列为缺席，原因为右腿筋拉伤。他此前已在对魔术的比赛中伤退。&lt;/p&gt;&lt;p&gt;来源：NBA官方伤病报告；&lt;a href="https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_03_30PM.pdf"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="true">https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_03_30PM.pdf</guid>
       <pubDate>Sun, 22 Nov 2026 15:30:00 -0500</pubDate>
-      <category>NBA</category>
-    </item>
-    <item>
-      <title>据报道：里夫斯完整参加湖人训练，球队未安排实战对抗</title>
-      <link>https://www.rotowire.com/basketball/headlines/austin-reaves-injury-practices-sunday-540511</link>
-      <description>&lt;p&gt;据《洛杉矶时报》记者Thuc Nhi Nguyen报道，里夫斯在脚跟伤势恢复期间，于11月22日完整参加湖人训练。球队当天未进行实战对抗，报道未确认他的具体复出场次。&lt;/p&gt;&lt;p&gt;来源：RotoWire（Thuc Nhi Nguyen报道）；&lt;a href="https://www.rotowire.com/basketball/headlines/austin-reaves-injury-practices-sunday-540511"&gt;阅读原文&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.rotowire.com/basketball/headlines/austin-reaves-injury-practices-sunday-540511</guid>
-      <pubDate>Sun, 22 Nov 2026 12:25:45 -0800</pubDate>
       <category>NBA</category>
     </item>
   </channel>
